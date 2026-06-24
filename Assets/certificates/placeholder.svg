@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#212b47"/>
+      <stop offset="100%" stop-color="#141b30"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="340" fill="url(#bg)"/>
+  <rect x="18" y="18" width="444" height="304" fill="none" stroke="#d9755a" stroke-width="2" stroke-dasharray="2 6" rx="6"/>
+  <rect x="34" y="34" width="412" height="276" fill="none" stroke="#d9755a" stroke-opacity="0.5" stroke-width="1" rx="4"/>
+  <g transform="translate(240,140)" fill="none" stroke="#d9755a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle r="34" cy="-6"/>
+    <path d="M-14 22 L-22 50 L0 38 L22 50 L14 22"/>
+    <path d="M-12 -10 L-3 0 L16 -18" />
+  </g>
+  <text x="240" y="232" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#ecdfd9" letter-spacing="1">Pratinjau Sertifikat</text>
+  <text x="240" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ecdfd9" fill-opacity="0.55" letter-spacing="2">GANTI DENGAN FILE ASLI</text>
+</svg>
